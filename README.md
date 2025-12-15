@@ -1,2 +1,2 @@
 # Hello-World-MCP-Server
-MCP Server that send string : "Hello World !"
+A simple MCP Server with a greeting tool.
