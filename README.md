@@ -1,7 +1,5 @@
 # Hello-World-MCP-Server
 
-MCP Server that sends string: "Hello World !"
-
 ## Description
 
 This is a simple Model Context Protocol (MCP) server that provides a tool which returns the greeting "Hello World !".
