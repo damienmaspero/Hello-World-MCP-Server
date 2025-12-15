@@ -44,7 +44,6 @@ Add this server to your MCP client configuration (e.g., Claude Desktop, Cursor, 
   }
 }
 ```
-Usage demo : https://youtu.be/uEedFBWmddI
 
 ### Available Tools
 
